@@ -2,4 +2,5 @@
 class osxbundle {
 
   include osxbundle::dependencies
+  
 }
