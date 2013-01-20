@@ -1,5 +1,5 @@
-#== Class nginx
-class xcode {
+#== Class osxbundle
+class osxbundle {
 
   package { 'xcode_4.4.1_6938145.dmg':
     provider  => 'pkgdmg',
